@@ -7,4 +7,6 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+
+[Web-Api (C# backend)](https://github.com/DonaldMurillo/revirewsAPI)
+[Web-view (React frontend)](https://github.com/DonaldMurillo/reviews-react)
